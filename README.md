@@ -1,0 +1,2 @@
+scsynth-server-only
+===================
